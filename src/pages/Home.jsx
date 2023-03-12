@@ -12,9 +12,9 @@ import { Link } from "react-router-dom";
   ];
 
   return (
-    <div className="Main">
+    <div className="Home">
         <h1>Sections</h1> 
-      {Main.map((section,key) => {
+      {Home.map((section,key) => {
         const { name } = section;
 
         return (
