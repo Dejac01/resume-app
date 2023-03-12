@@ -8,7 +8,7 @@ function Experience() {
   </h1>
   <div className='Experience'>
       <ul>
-      <div className='Experience1'> <ol>I.T Consultant: Inisht Enterprises</ol> 
+      <div className='Experience1'> <ol>I.T Consultant: Insight Enterprises</ol> 
       <ol>2022-Present</ol></div>
   
        <div className='Experience2'> <ol>Banking/Tech Support Analyst: Pnc Financial Services</ol> 
