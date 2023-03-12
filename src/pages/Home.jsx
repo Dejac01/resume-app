@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
     <div className="Home">
         <h1>Welcome to my Digital Resume!</h1> 
 
-        <img className='imag1' src="https://media.tenor.com/RpKXrOa3eOAAAAAd/welcome.gif" alt="React Image" />
+        <img className='image1' src="https://media.tenor.com/RpKXrOa3eOAAAAAd/welcome.gif" alt="React Image" />
    
 
 
