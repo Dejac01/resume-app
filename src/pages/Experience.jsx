@@ -1,15 +1,14 @@
 import React from 'react'
 
-function 
+function Experience (props) {
 
-() {
   return (
-    <div className='Education'>
+    <div className='Experience'>
         
 
     </div>
   )
 }
 
-export default 
+export default Experience 
 
