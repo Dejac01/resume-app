@@ -8,7 +8,7 @@ import {Link} from 'react-router-dom'
       <Link to="/">
         <div>Home</div>
       </Link>
-      <Link to="/resume">
+      <Link to="/About">
         <div>Resume</div>
       </Link>
     </div>

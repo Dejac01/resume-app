@@ -2,8 +2,8 @@ import React from 'react'
 
 import { Link } from "react-router-dom";
 
- function Main (props) {
-  const Main = [
+ function Home (props) {
+  const Home = [
     { name: "About"},
     { name: "Education"},
     { name: "Experience" },
@@ -29,4 +29,4 @@ import { Link } from "react-router-dom";
 </div>
   );
 };
-export default Main
+export default Home 
