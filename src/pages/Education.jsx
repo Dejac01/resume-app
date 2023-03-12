@@ -8,17 +8,18 @@ function Education() {
 </h1>
 <div className='Education'>
     <ul>
-<ol>PerScholas Tecnical School: Software Engineering
-     </ol>
-<ol>Associates Of Science: Business Administration
-    Georgia Perimeter College </ol>
-    <ol>Bachelors Of Science: Computer Science
-    Louisiana State University </ol> 
-    </ul>
+    <div className='Education1'> <ol>PerScholas Tecnical School: Software Engineering
+     </ol> </div>
 
+     <div className='Education2'> <ol>Associates Of Science: Business Administration</ol> 
+      <ol> Georgia Perimeter College </ol> </div>
+
+     <div className='Education3'> <ol>Bachelors Of Science: Computer Science </ol> 
+   <ol> Louisiana State University </ol> </div>
+    </ul>
+</div>
 </div>
 
-    </div>
   )
 }
 
