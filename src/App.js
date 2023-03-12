@@ -1,7 +1,7 @@
 import "./App.css";
 //Import route and our components
 import { Route, Routes } from "react-router-dom";
-import Main from "./pages/Home";
+import Home from "./pages/Home";
 import Nav from './components/Nav';
 import About from "./pages/About";
 import Education from "./pages/Education";
@@ -14,7 +14,7 @@ export default function App (props) {
       <Nav/>
       
     <Routes>
-      <Route path="/" element={<Main/>}/>
+      <Route path="/" element={<Home/>}/>
       <Route path="/About" element={<About/>}/>
       <Route path="/Education" element={<Education/>}/>
       <Route path="/Experience" element={<Experience/>}/>
