@@ -33,20 +33,24 @@ body{
 
 .About{
  /* border: solid black; */
-  font-size: 1.5em;
-  color: black;
-  font-weight: bold;
-  font-family: cursive;
+ font-size: 1.2em;
+ background-color: lightskyblue;
+ color: black;
+ font-weight: bold;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ background-color: #cca4a415;
+ padding: 20px;
+ border: 2px solid #cccccc54;
+ border-radius: 5px;
+ height: 100%;
+ box-shadow: 2px 5px 9px rgb(90, 87, 87);
 }
 
-.Education{
-  font-size: 1.2em;
-  
-  color: black;
-  font-weight: bold;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  
-}
+
 
 .Education1, .Education2, .Education3{
   font-size: 1.2em;
@@ -54,5 +58,31 @@ body{
   color: black;
   font-weight: bold;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-border:solid 
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #83d3d015;
+  padding: 20px;
+  border: 2px solid #cccccc54;
+  border-radius: 5px;
+  height: 100%;
+  box-shadow: 2px 5px 9px rgb(90, 87, 87);
+}
+.Experience1, .Experience2, .Experience3{
+  font-size: 1.2em;
+  background-color: lightskyblue;
+  color: black;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #cca4a415;
+  padding: 20px;
+  border: 2px solid #cccccc54;
+  border-radius: 5px;
+  height: 100%;
+  box-shadow: 2px 5px 9px rgb(90, 87, 87);
 }
