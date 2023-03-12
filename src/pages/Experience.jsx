@@ -11,7 +11,7 @@ function Experience() {
       <div className='Experience1'> <ol>I.T Consultant: Inisht Enterprises</ol> 
       <ol>2022-Present</ol></div>
   
-       <div className='Experience2'> <ol>Banking/TechSUpport Analyst: Pnc Financial Services</ol> 
+       <div className='Experience2'> <ol>Banking/Tech Support Analyst: Pnc Financial Services</ol> 
         <ol> 2020-2022 </ol> </div>
   
        <div className='Experience3'> <ol>Communications Specialist: Loews Atlanta Hotel </ol> 
