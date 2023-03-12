@@ -15,7 +15,7 @@ code {
 .nav {
   display: flex;
   justify-content: space-between;
-  background-color: black;
+  background-color: rgb(10, 6, 142);
   color: white;
   padding: 15px;
   font-size: 2em;
