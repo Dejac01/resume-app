@@ -1,11 +1,10 @@
 import React from 'react'
 
-function Experience (props) {
+function Experience () {
 
   return (
     <div className='Experience'>
-       <h1>
-        Experience</h1> 
+       <h1>Experience</h1> 
 
     </div>
   )
