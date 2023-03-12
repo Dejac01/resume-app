@@ -12,7 +12,7 @@ export default function App (props) {
   return (
     <div className="App">
       <Nav/>
-
+      
     <Routes>
       <Route path="/" element={<Main/>}/>
       <Route path="/About" element={<About/>}/>
