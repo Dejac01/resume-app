@@ -91,6 +91,14 @@ display: flex;
  
   font-weight: bold;
   color: black;
-  justify-content: center;
+  text-align: center;
   font-size: 1em;
 }
+.Links1{
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 1em;
+  border: solid grey;
+}
+
