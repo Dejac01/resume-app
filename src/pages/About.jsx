@@ -12,12 +12,15 @@ I am an accomplished technology professional, writer and consultant with a prove
 </p>
 
 <ul className='Links'>
-  <h1>Professional Links</h1>
+  <h1>Links</h1>
   <ol><a href="https://www.linkedin.com/in/deja-craft/" rel="linkedin">
     Linked In
   </a></ol>
   <ol><a href="https://www.clippings.me/dejac" rel="writing">
     My Writing
+  </a></ol>
+  <ol><a href="https://github.com/Dejac01" rel="writing">
+    My GitHub
   </a></ol>
 </ul>
     </div>
