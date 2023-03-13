@@ -93,12 +93,18 @@ display: flex;
   color: black;
   text-align: center;
   font-size: 1em;
+  
 }
 .Links1{
   font-weight: bold;
   color: black;
-  text-align: center;
   font-size: 1em;
-  border: solid grey;
+  display: flex;
+}
+
+.Link3{
+  font-weight: bold;
+  color: rgb(6, 6, 6);
+margin: auto;
 }
 
