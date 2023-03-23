@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Education from "./pages/Education";
 import Experience from "./pages/Experience";
 
+
 export default function App (props) {
   // We will use the Route component to specify each route
   return (
